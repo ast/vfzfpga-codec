@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# But not these files
+!.gitignore
+!README.md
+!Makefile
+!vfzfpga.c
+!vfzfpga-overlay.dts
+!patched/*.c
+!loader/*.c
+!loader/Makefile
+
+# ...even if they are in subdirectories
+!*/
