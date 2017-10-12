@@ -29,6 +29,7 @@ This repository reflects my struggles in writing a dedicated ASoC CODEC driver f
 
 # More information
 
+* [Elektor articles](https://www.elektormagazine.com/authors/61601/daniel-uppstroem)
 * [Linux Kernel Module](https://github.com/ast/vfzsdr)
 * [FPGA firmware and information](https://github.com/danupp/fpgasdr)
 * [SM6VFZ's blog](https://sm6vfz.wordpress.com)
